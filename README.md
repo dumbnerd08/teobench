@@ -12,3 +12,6 @@ take the csv file it outputs and use some sort of data analisys like a graph gen
 # FAQ
 ## Q: Why is this README so crappy?
 A: i didnt feel like putting effort into it
+
+## Q: what if i make a typo in the parameters
+A: don't. just don't. there is no error handling.
